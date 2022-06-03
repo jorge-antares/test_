@@ -1,3 +1,5 @@
 import random
 
-print(random.random())
+
+for i in range(50):
+  print(random.random())
